@@ -6,8 +6,6 @@ int main()
     float number;
     float d ;
 
-    d = 100;
-
     printf("enter the number a :\n");
     scanf("%d",&a);
     printf("enter the number b:\n");
